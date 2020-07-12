@@ -2,3 +2,10 @@ Hello I'm a test file.
 Just exploring git.
 It's great!
 
+Rainbows are my fav!
+The colors of rainbow.
+Violet
+Blue
+Green
+Yellow
+Red
